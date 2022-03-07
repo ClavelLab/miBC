@@ -1,5 +1,5 @@
 # miBC
-![logo](/Image/miBC-logo.png)
+![logo](/Logo/miBC-logo.png)
 
 Microbiome research is hampered by the fact that many bacteria are still unknown and by the lack of publicly available isolates. Fundamental and clinical research is in need of comprehensive and well-curated repositories of cultured bacteria from the intestine of mammalian hosts. Due to host-specific features of the gut microbiota, it is sound to establish collections of isolates from single host species. Hence, this project established a collection of bacterial strains isolated from the intestine of mice.
 
