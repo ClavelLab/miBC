@@ -8,5 +8,5 @@ The original version of the collection published in 2016 (accessible [here](http
 This resource was built to increase our knowledge of cultured diversity within the mouse gut microbiota. It includes the study of strain-level diversity, small-sized bacteria, and the isolation and characterization of the first cultured members of one novel family, 10 novel genera, and 39 novel species. We hope that the work will support scientists with their own research by providing multiple strains representing a broad phylogenetic diversity to be used for functional experiments. In addition to single strains, the collection provides ready-to-use mixtures of the Oligo-Mouse Microbiota (OMM) (see original version [here](https://doi.org/10.1038/nmicrobiol.2016.215)) to perform colonization studies in gnotobiotic mice.
 
 
-Data from this work (e.g. electron micrographs, Protologger output, Supplementary Tables, 16S rRNA gene sequences) can be downloaded directly from above.
+Data from this work (e.g. electron micrographs, Protologger output, Supplementary tables, 16S rRNA gene sequences) can be downloaded directly from above.
 Draft genomes for the isolates are available in Zenodo: https://doi.org/10.5281/zenodo.6330915
