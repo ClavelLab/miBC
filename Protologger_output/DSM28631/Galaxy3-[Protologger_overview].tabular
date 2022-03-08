@@ -1,0 +1,167 @@
+Protologger v0.99; Run date: 2021-11-12
+Quality check
+-------------
+
+The input 16S rRNA gene is acceptable at 86.4234449761% complete compared to its closest relative
+The input 16S rRNA gene was not identified as a chimera.
+The input genome is of high quality and suitable for analysis
+Genome completeness is ;100.0
+Genome contamination is ;0.0
+
+
+16S rRNA gene analysis
+-------------------------
+
+The input 16S rRNA determined the isolate to be; not novel
+The best match was to; Stenotrophomonas maltophilia--Lysobacteraceae--AB294553 (Valid) (99.7224149896%)
+
+
+Genome analysis
+---------------
+
+Genome based assignment via GTDB-Tk placed the genome as; d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Stenotrophomonas;s__Stenotrophomonas maltophilia_F
+GTDB-Tk was able to assign the genome to; GCF_000284595.1
+The genome size is; 4.73Mbp base pairs
+G+C percentage is; 66.68%
+ANI identified the input genome as novel, with the best match being to Stenotrophomonas_pavanii with a value of 93.7944%
+No validly named species with a sequenced genome within the GTDB-Tk database was identified to have a ANI value >95% with the studied genome
+The input genome was assigned to Xanthomonas with a POCP value of 58.6099832816%
+CRISPR arrays identified; 0
+Coding sequences identified; 4305
+
+
+Functional analysis
+-------------------
+
+Number of transporters; 161
+Number of secretion genes; 34
+Number of unique enzymes; 770
+The following carbon sources were predicted to be utilised; starch
+L-glutamate production from ammonia was predicted via L-glutamine (EC:6.3.1.2, 1.4.1.-)
+
+
+Antibiotic resistance analysis
+------------------------------
+
+Antibiotic efflux resistance may be conferred by antibiotic efflux via detection of resistance-nodulation-cell division (rnd) antibiotic efflux pump
+Antibiotic efflux resistance may be conferred by antibiotic efflux via detection of resistance-nodulation-cell division (rnd) antibiotic efflux pump
+Antibiotic efflux resistance may be conferred by antibiotic efflux via detection of resistance-nodulation-cell division (rnd) antibiotic efflux pump
+Antibiotic efflux resistance may be conferred by antibiotic efflux via detection of resistance-nodulation-cell division (rnd) antibiotic efflux pump
+Antibiotic efflux resistance may be conferred by antibiotic efflux via detection of resistance-nodulation-cell division (rnd) antibiotic efflux pump
+Antibiotic inactivation resistance may be conferred by antibiotic inactivation via detection of aph(3')
+Antibiotic inactivation resistance may be conferred by antibiotic inactivation via detection of l1 family beta-lactamase
+Antibiotic efflux resistance may be conferred by antibiotic efflux via detection of resistance-nodulation-cell division (rnd) antibiotic efflux pump
+Antibiotic efflux resistance may be conferred by antibiotic efflux via detection of resistance-nodulation-cell division (rnd) antibiotic efflux pump
+Antibiotic efflux resistance may be conferred by antibiotic efflux via detection of resistance-nodulation-cell division (rnd) antibiotic efflux pump
+
+
+CAZyme analysis
+---------------
+
+In total the following number of CAZymes were identified within the genome; 261
+The following occurrences of glycoside hydrolase (GH) families were identified within the genome; 
+GH16;3
+GH15;1
+GH13;12
+GH11;1
+GH18;3
+GH19;5
+GH77;1
+GH73;1
+GH31;1
+GH32;2
+GH36;1
+GH144;2
+GH103;3
+GH102;1
+GH101;1
+GH104;1
+GH109;1
+GH152;1
+GH67;1
+GH65;2
+GH28;2
+GH23;9
+GH20;1
+GH43;7
+GH24;2
+GH4;1
+GH6;3
+GH153;1
+GH0;5
+GH1;10
+GH2;1
+GH3;5
+GH135;1
+GH114;1
+GH97;1
+GH92;3
+The following occurrences of glycoside transferase (GT) families were identified within the genome; 
+GT13;2
+GT30;2
+GT22;1
+GT83;3
+GT20;2
+GT19;1
+GT41;1
+GT28;6
+GT0;2
+GT1;11
+GT2;34
+GT4;24
+GT5;2
+GT51;5
+GT8;1
+GT9;1
+The following occurrences of polysaccharise lyase (PL) families were identified within the genome; 
+PL5;1
+The following occurrences of carbohydrate esterase (CE) families were identified within the genome; 
+CE12;1
+CE11;3
+CE16;1
+CE15;1
+CE14;3
+CE4;6
+CE1;1
+CE0;3
+CE9;2
+The following occurrences of carbohydrate-binding module (CBM) families were identified within the genome; 
+CBM41;4
+CBM50;21
+CBM51;2
+CBM12;2
+CBM13;7
+CBM48;5
+CBM73;3
+CBM32;5
+CBM5;4
+CBM6;1
+CBM20;1
+CBM9;1
+
+
+Ecological analysis
+-------------------
+
+Metagenome assembled genomes (MAGs) clustering with your isolates genome were identified, in total 2 MAGs were identified 
+
+
+The isolate was detected in 30.3% of 1,000 amplicon samples from the insect gut metagenome at a mean relative abundance of 0.89% with a standard deviation of 5.58%.
+The isolate was detected in 43.5% of 1,000 amplicon samples from the plant metagenome at a mean relative abundance of 0.65% with a standard deviation of 2.11%.
+The isolate was detected in 28.2% of 1,000 amplicon samples from the human lung metagenome at a mean relative abundance of 5.95% with a standard deviation of 19.24%.
+The isolate was detected in 5.4% of 1,000 amplicon samples from the mouse gut metagenome at a mean relative abundance of 0.07% with a standard deviation of 0.23%.
+The isolate was detected in 39.3% of 1,000 amplicon samples from the human skin metagenome at a mean relative abundance of 0.12% with a standard deviation of 0.34%.
+The isolate was detected in 27.0% of 1,000 amplicon samples from the pig gut metagenome at a mean relative abundance of 0.09% with a standard deviation of 0.45%.
+The isolate was detected in 8.2% of 1,000 amplicon samples from the human oral metagenome at a mean relative abundance of 1.44% with a standard deviation of 10.67%.
+The isolate was detected in 23.3% of 1,000 amplicon samples from the activated sludge metagenome at a mean relative abundance of 0.07% with a standard deviation of 0.26%.
+The isolate was detected in 40.3% of 1,000 amplicon samples from the wastewater metagenome at a mean relative abundance of 0.47% with a standard deviation of 2.24%.
+The isolate was detected in 14.8% of 1,000 amplicon samples from the marine sediment metagenome at a mean relative abundance of 0.34% with a standard deviation of 1.27%.
+The isolate was detected in 53.1% of 1,000 amplicon samples from the rhizosphere metagenome at a mean relative abundance of 0.28% with a standard deviation of 1.26%.
+The isolate was detected in 31.0% of 1,000 amplicon samples from the soil metagenome at a mean relative abundance of 0.41% with a standard deviation of 3.29%.
+The isolate was detected in 12.0% of 1,000 amplicon samples from the marine metagenome at a mean relative abundance of 0.07% with a standard deviation of 0.23%.
+The isolate was detected in 35.1% of 1,000 amplicon samples from the freshwater metagenome at a mean relative abundance of 0.45% with a standard deviation of 1.84%.
+The isolate was detected in 28.1% of 1,000 amplicon samples from the coral metagenome at a mean relative abundance of 0.39% with a standard deviation of 2.03%.
+The isolate was detected in 7.3% of 1,000 amplicon samples from the human gut metagenome at a mean relative abundance of 0.08% with a standard deviation of 0.28%.
+The isolate was detected in 13.7% of 1,000 amplicon samples from the chicken gut metagenome at a mean relative abundance of 0.40% with a standard deviation of 1.04%.
+The isolate was detected in 12.2% of 1,000 amplicon samples from the human vaginal metagenome at a mean relative abundance of 4.62% with a standard deviation of 12.43%.
+The isolate was detected in 14.4% of 1,000 amplicon samples from the bovine gut metagenome at a mean relative abundance of 0.15% with a standard deviation of 0.41%.
