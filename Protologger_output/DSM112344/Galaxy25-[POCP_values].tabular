@@ -1,0 +1,32 @@
+#Matching species	POCP (%)
+POCP suggests seperate genus between the input genome and Dysgonomonas_capnocytophagoides--GCF_000426485.1 as POCP was;	28.2586027112%
+POCP suggests seperate genus between the input genome and Marinilabilia_salmonicolor--GCF_003003035.1 as POCP was;	31.7676767677%
+POCP suggests seperate genus between the input genome and Alkaliflexus_imshenetskii--GCF_000517065.1 as POCP was;	31.0376158459%
+POCP suggests seperate genus between the input genome and Butyricimonas_virosa--GCF_000519105.1 as POCP was;	43.1604938272%
+POCP suggests seperate genus between the input genome and Odoribacter_splanchnicus--GCF_000190535.1 as POCP was;	47.4450084602%
+POCP suggests seperate genus between the input genome and Parabacteroides_merdae--GCF_000154105.1 as POCP was;	35.9043905747%
+POCP suggests seperate genus between the input genome and Prolixibacter_denitrificans--GCF_003014495.1 as POCP was;	30.2678283317%
+POCP suggests seperate genus between the input genome and Dysgonomonas_gadei--GCF_000213555.1 as POCP was;	27.4581093898%
+POCP suggests seperate genus between the input genome and Balneicella_halophila--GCA_003096835.1 as POCP was;	37.1316306483%
+POCP suggests the input genome and Gabonibacter_massiliensis--GCF_001487125.1 belong to the same genus with a POCP of;	50.5279936242%
+POCP suggests seperate genus between the input genome and Butyricimonas_synergistica--GCA_001915615.1 as POCP was;	43.3456724837%
+POCP suggests the input genome and Odoribacter_laneus--GCF_000243215.1 belong to the same genus with a POCP of;	55.1587301587%
+POCP suggests seperate genus between the input genome and Tannerella_forsythia--GCF_001006485.1 as POCP was;	34.4464683262%
+POCP suggests seperate genus between the input genome and Tangfeifania_diversioriginum--GCF_900141875.1 as POCP was;	28.653204007%
+POCP suggests seperate genus between the input genome and Parabacteroides_distasonis--GCF_000012845.1 as POCP was;	35.2410124133%
+POCP suggests seperate genus between the input genome and Draconibacterium_orientale--GCF_000626635.1 as POCP was;	29.3843283582%
+POCP suggests seperate genus between the input genome and Prolixibacter_bellariivorans--GCF_000621705.1 as POCP was;	29.8745547468%
+POCP suggests seperate genus between the input genome and Mariniphaga_anaerophila--GCF_900129025.1 as POCP was;	28.7175324675%
+POCP suggests seperate genus between the input genome and Parabacteroides_johnsonii--GCF_000156495.1 as POCP was;	33.5706196408%
+POCP suggests seperate genus between the input genome and Anaerophaga_thermohalophila--GCF_000191885.1 as POCP was;	31.4818132951%
+POCP suggests seperate genus between the input genome and Labilibacter_aurantiacus--GCF_001660705.2 as POCP was;	26.1862396204%
+POCP suggests seperate genus between the input genome and Parabacteroides_chinchillae--GCF_900108035.1 as POCP was;	38.3703136955%
+POCP suggests seperate genus between the input genome and Geofilum_rubicundum--GCF_000974365.1 as POCP was;	28.7361419069%
+POCP suggests seperate genus between the input genome and Alkalitalea_saponilacus--GCF_002201795.1 as POCP was;	28.8937531571%
+POCP suggests seperate genus between the input genome and Cytophaga_xylanolytica--GCF_003254275.1 as POCP was;	30.9878926127%
+POCP suggests seperate genus between the input genome and Labilibacter_marinus--GCF_001659685.2 as POCP was;	25.6805939729%
+POCP suggests seperate genus between the input genome and Saccharicrinis_fermentans--GCF_000517085.1 as POCP was;	25.9760841377%
+POCP suggests seperate genus between the input genome and Marinifilum_fragile--GCF_001310955.1 as POCP was;	33.0595482546%
+POCP suggests seperate genus between the input genome and Coprobacter_secundus--GCF_000803105.1 as POCP was;	35.4058078928%
+POCP suggests seperate genus between the input genome and Thermophagus_xiamenensis--GCF_900112795.1 as POCP was;	32.5714285714%
+POCP suggests seperate genus between the input genome and Parabacteroides_chartae--GCF_900168155.1 as POCP was;	34.3732693373%
