@@ -1,0 +1,4 @@
+#MAG-ID	Host-environment	Study	Sample meta-data	MASH distance
+SRR5963139_bin.3.fna	Human	Almeida_2019	Health status;Diseased,Disease;Premature,Antibiotic treated;NA,Age group;NA,Location;North America	0.00691005
+ERR1620262_bin.9.fna	Human	Almeida_2019	Health status;Diseased,Disease;Crohns Disease,Antibiotic treated;NA,Age group;Adult,Location;Asia	0.00796745
+HeQ_2017__SZAXPI029544-123__bin_1.fa	Human	Pasolli_2019	Body site;Stool,Age group;Adult,Location;China	0.00741321
