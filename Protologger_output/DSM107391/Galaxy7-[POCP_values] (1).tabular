@@ -1,0 +1,25 @@
+#Matching species	POCP (%)
+POCP suggests seperate genus between the input genome and Streptococcus_caballi--GCF_000379985.1 as POCP was;	42.3753312455%
+POCP suggests seperate genus between the input genome and Streptococcus_urinalis--GCF_000188055.2 as POCP was;	42.511627907%
+POCP suggests the input genome and Lactococcus_garvieae--GCF_000269925.1 belong to the same genus with a POCP of;	74.203187251%
+POCP suggests seperate genus between the input genome and Lactococcus_chungangensis--GCF_002441885.1 as POCP was;	48.4404536862%
+POCP suggests seperate genus between the input genome and Streptococcus_iniae--GCF_001595425.1 as POCP was;	45.0512759361%
+POCP suggests seperate genus between the input genome and Streptococcus_uberis--GCF_900475595.1 as POCP was;	45.4726864555%
+POCP suggests the input genome and Lactococcus_lactis--GCF_001622305.1 belong to the same genus with a POCP of;	61.0299579104%
+POCP suggests the input genome and Lactococcus_plantarum--GCF_002441715.1 belong to the same genus with a POCP of;	51.8602885345%
+POCP suggests seperate genus between the input genome and Streptococcus_infantarius--GCF_000154985.1 as POCP was;	43.2920792079%
+POCP suggests seperate genus between the input genome and Lactococcus_raffinolactis--GCF_001591765.1 as POCP was;	49.9287749288%
+POCP suggests seperate genus between the input genome and Streptococcus_suis--GCF_002962445.1 as POCP was;	41.9026870007%
+POCP suggests seperate genus between the input genome and Streptococcus_pyogenes--GCF_002055535.1 as POCP was;	42.7425419905%
+POCP suggests seperate genus between the input genome and Streptococcus_gallolyticus--GCF_002000985.1 as POCP was;	40.5279503106%
+POCP suggests seperate genus between the input genome and Streptococcus_salivarius--GCF_000785515.1 as POCP was;	41.9157275845%
+POCP suggests seperate genus between the input genome and Streptococcus_lutetiensis--GCF_900475675.1 as POCP was;	44.3322981366%
+POCP suggests seperate genus between the input genome and Streptococcus_equinus--GCF_000187265.1 as POCP was;	45.6103348273%
+POCP suggests seperate genus between the input genome and Streptococcus_minor--GCF_000377005.1 as POCP was;	42.5414364641%
+POCP suggests seperate genus between the input genome and Streptococcus_parauberis--GCF_000187935.1 as POCP was;	43.8255510785%
+POCP suggests seperate genus between the input genome and Streptococcus_merionis--GCF_000380085.1 as POCP was;	41.427555134%
+POCP suggests seperate genus between the input genome and Lactococcus_piscium--GCF_002441695.1 as POCP was;	48.1038374718%
+POCP suggests seperate genus between the input genome and Streptococcus_equi--GCF_900110405.1 as POCP was;	42.7358719379%
+POCP suggests the input genome and Lactococcus_fujiensis--GCF_002441655.1 belong to the same genus with a POCP of;	58.8807785888%
+POCP suggests seperate genus between the input genome and Streptococcus_anginosus--GCA_001697145.1 as POCP was;	44.7156517363%
+POCP suggests seperate genus between the input genome and Streptococcus_criceti--GCF_000187975.2 as POCP was;	40.4678362573%
