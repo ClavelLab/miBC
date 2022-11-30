@@ -9,4 +9,4 @@ This resource was built to increase our knowledge of cultured diversity within t
 
 
 Data from this work (e.g. electron micrographs, Protologger output, Supplementary tables, 16S rRNA gene sequences) can be downloaded directly from above.
-Draft genomes for the isolates are available in Zenodo: https://doi.org/10.5281/zenodo.6330914
+Draft genomes for the isolates are available in Zenodo: https://doi.org/10.5281/zenodo.6330914 and can be all downloaded automatically using, for instance, [zenodo_get](https://github.com/dvolgyes/zenodo_get) (`zenodo_get -d https://doi.org/10.5281/zenodo.6330914`)
